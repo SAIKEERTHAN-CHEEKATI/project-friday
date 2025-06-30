@@ -13,10 +13,7 @@ This agent uses LiveKit that is 100% free!
 
 ---
 
-## 📽️ Tutorial Video
 
-Before you start, **make sure to follow this tutorial to set up the voice agent correctly**:  
-🎥 [Watch here](https://youtu.be/An4NwL8QSQ4?si=v1dNDDonmpCG1Els)
 
 ---
 1. Create the Virtual Envrionment first!
